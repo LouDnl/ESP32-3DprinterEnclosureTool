@@ -16,6 +16,9 @@ Micropython libraries used:
 - Thermistor library
 - LCD library
 
+# Website screenshot
+![Website](screenshot.png)
+
 # To Do:
 - Better webserver implementation
 - MQTT or any other tool to make the board remote controllable
